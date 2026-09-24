@@ -1,0 +1,6 @@
+{
+  "name": "GURJAAP Business Solutions",
+  "description": "Modern business, website, software and digital solutions designed to help entrepreneurs and businesses build, grow and succeed.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
